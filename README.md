@@ -33,7 +33,7 @@
 
 > “Certifications don’t define me — they reflect my journey of learning, experimenting, and growing.”
 
-Check out my [Credly Badges]((https://www.credly.com/users/sriharini-senthilkumar)) 👈
+Check out my [**Credly Badges**](https://www.credly.com/users/sriharini-senthilkumar) 👈
 
 ---
 
