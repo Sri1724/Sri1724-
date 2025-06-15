@@ -27,6 +27,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
+---
+
+## 🏅 My Digital Credentials
+
+> “Certifications don’t define me — they reflect my journey of learning, experimenting, and growing.”
+
+Check out my [Credly Badges]([certifications/badges.md](https://www.credly.com/users/sriharini-senthilkumar)) 👈
 
 ---
 
@@ -55,11 +62,12 @@
 
 ---
 
-## ✨ Extras
+## 🎭 What You Don’t See in the Repo
 
-- 🎯 _Currently mastering:_  **Cloud Deployment**, **AI/ML Systems**, and **UX-first Design**  
-- 📝 I document everything: wins, fails, bugs, builds  
-- 📍 Based in India | 💡 Available for internships / project collabs  
+- 🔧 Working on: **Cloud Deployment**, **AI/ML pipelines**, and **UX-first Design** 
+- 🤯 Beyond the code: **failed builds**, **late-night bugs**, **"aha!" moments**
+- 📍 Based in India | 🧩 Let’s build together — open to projects & internships
+
 
 ---
 
