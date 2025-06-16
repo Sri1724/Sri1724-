@@ -62,6 +62,8 @@ Check out my [**Credly Badges**](https://www.credly.com/users/sriharini-senthilk
 | ![Sriharini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sri1724&show_icons=true&theme=tokyonight&count_private=true&hide=issues) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sri1724&layout=compact&theme=tokyonight) |
 
 ---
+| ![Snake animation](https://github.com/Sri1724/Sri1724/blob/output/github-contribution-grid-snake.svg)|
+---
 
 ## 🚀 Some Tools I Have Used and Learned
 
