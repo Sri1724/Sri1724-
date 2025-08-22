@@ -41,7 +41,6 @@ Check out my [**Credly Badges**](https://www.credly.com/users/sriharini-senthilk
 
 - 🧠 NLP-based Compliance Automation System (`CyberAudit`)  
 - 🎨 UI/UX Prototypes for next-gen interfaces  
-- 💬 DSA prep in Java for interviews & LeetCode grind
 
 ---
 
